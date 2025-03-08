@@ -11,6 +11,8 @@ using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 using TMPro;
+using TTSDK;
+using StarkSDKSpace;
 public class GUIManagerUGUI : MonoBehaviour {
     [HideInInspector]
 	public bool GameStarted=false; //Whether Game has started
@@ -74,8 +76,32 @@ public class GUIManagerUGUI : MonoBehaviour {
 	}
 	public void hitGamePlayMainMenu(){
 		Application.LoadLevel(0);
-	}
-	public void hitMainMenuExit(){
+        ShowInterstitialAd("54houj3lpu07e3o33v",
+            () => {
+                Debug.LogError("--插屏广告完成--");
+
+            },
+            (it, str) => {
+                Debug.LogError("Error->" + str);
+            });
+
+
+    }
+
+    public static string clickid;
+    private static StarkAdManager starkAdManager;
+
+    public static void ShowInterstitialAd(string adId, System.Action closeCallBack, System.Action<int, string> errorCallBack)
+    {
+        starkAdManager = StarkSDK.API.GetStarkAdManager();
+        if (starkAdManager != null)
+        {
+            var mInterstitialAd = starkAdManager.CreateInterstitialAd(adId, errorCallBack, closeCallBack);
+            mInterstitialAd.Load();
+            mInterstitialAd.Show();
+        }
+    }
+    public void hitMainMenuExit(){
 		Application.Quit();
 		}
 	void Update () {

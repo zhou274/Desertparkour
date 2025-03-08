@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Infinite Runner Ultimate 3D/Scenes/Desert Ruins Sample Game.unity
+    guid: fc202b02553a2a345808a8046dafd361
   m_configObjects: {}

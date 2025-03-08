@@ -80,6 +80,8 @@ public class PlayerControls : MonoBehaviour
     private CapsuleCollider collider;
     private CapsuleCollider capsuleCollider;
     private Quaternion rotateQuaternion;
+
+
     public enum TrackTypeEnum
     {
         ThreeSlotTrack, FreeHorizontalMovement
@@ -514,9 +516,12 @@ public class PlayerControls : MonoBehaviour
             }
         }
     }
+
+    public GameObject DeathMenu;
+
     public void Respawn()  //Respawn Player at Respawn point
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("2s1kdjob7r35h9ib7h",
             (bol) => {
                 if (bol)
                 {
@@ -533,6 +538,8 @@ public class PlayerControls : MonoBehaviour
                     dead = false;
                     CurrentGameState = GameState.Playing; //Change gamestate to dead
                     GetComponent<Rigidbody>().isKinematic = false;
+                    DeathMenu.SetActive(false);
+                    FindObjectOfType<StoreManager>().UseExhaustibleItem(100);
                     if (GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerPoweUpsUGUI>())
                     {
                         pu = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerPoweUpsUGUI>();
