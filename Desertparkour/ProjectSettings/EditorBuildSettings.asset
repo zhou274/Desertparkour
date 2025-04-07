@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Infinite Runner Ultimate 3D/Scenes/JianKang.unity
+    guid: 57864875faa991e48b144d7e69f15154
+  - enabled: 1
     path: Assets/Infinite Runner Ultimate 3D/Scenes/Desert Ruins Sample Game.unity
     guid: fc202b02553a2a345808a8046dafd361
   m_configObjects: {}

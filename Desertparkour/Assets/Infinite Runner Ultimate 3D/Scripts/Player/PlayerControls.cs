@@ -80,6 +80,7 @@ public class PlayerControls : MonoBehaviour
     private CapsuleCollider collider;
     private CapsuleCollider capsuleCollider;
     private Quaternion rotateQuaternion;
+    public GameObject InvincibleObj;
 
 
     public enum TrackTypeEnum
@@ -519,6 +520,20 @@ public class PlayerControls : MonoBehaviour
 
     public GameObject DeathMenu;
 
+    public void Invincible()
+    {
+        if (GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerPoweUpsUGUI>())
+        {
+            PlayerPoweUpsUGUI pu;
+            pu = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerPoweUpsUGUI>();
+            pu.ActivateState(PlayerPoweUpsUGUI.State.Invincible);
+            GUIManagerUGUI.canInvincible = false;
+        }
+        
+
+
+    }
+
     public void Respawn()  //Respawn Player at Respawn point
     {
         ShowVideoAd("2s1kdjob7r35h9ib7h",
@@ -538,13 +553,14 @@ public class PlayerControls : MonoBehaviour
                     dead = false;
                     CurrentGameState = GameState.Playing; //Change gamestate to dead
                     GetComponent<Rigidbody>().isKinematic = false;
-                    DeathMenu.SetActive(false);
                     FindObjectOfType<StoreManager>().UseExhaustibleItem(100);
                     if (GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerPoweUpsUGUI>())
                     {
                         pu = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerPoweUpsUGUI>();
                         pu.ActivateState(PlayerPoweUpsUGUI.State.Invincible);
                     }
+                    DeathMenu.SetActive(false);
+                    InvincibleObj.SetActive(true);
 
 
 

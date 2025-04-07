@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "D:\\UnityProject\\Desertparkour\\Desertparkour\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|D:\\UnityProject\\Desertparkour\\Desertparkour\\assets\\infinite runner ultimate 3d\\scripts\\player\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|solutionrelative:assets\\infinite runner ultimate 3d\\scripts\\player\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|d:\\unityproject\\desertparkour\\desertparkour\\assets\\infinite runner ultimate 3d\\scripts\\player\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|D:\\UnityProject\\Desertparkour\\Desertparkour\\assets\\infinite runner ultimate 3d\\scripts\\player\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|solutionrelative:assets\\infinite runner ultimate 3d\\scripts\\player\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|solutionrelative:assets\\infinite runner ultimate 3d\\scripts\\utility\\guimanagerugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5B2029B-1CD8-66EF-F2A0-9E2EEA547751}|Assembly-CSharp-Editor.csproj|D:\\UnityProject\\Desertparkour\\Desertparkour\\assets\\infinite runner ultimate 3d\\editor\\pointsetseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B2029B-1CD8-66EF-F2A0-9E2EEA547751}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\infinite runner ultimate 3d\\editor\\pointsetseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|d:\\unityproject\\desertparkour\\desertparkour\\assets\\infinite runner ultimate 3d\\scripts\\player\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|solutionrelative:assets\\infinite runner ultimate 3d\\scripts\\player\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|D:\\UnityProject\\Desertparkour\\Desertparkour\\assets\\infinite runner ultimate 3d\\scripts\\player\\playerpoweupsugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|solutionrelative:assets\\infinite runner ultimate 3d\\scripts\\player\\playerpoweupsugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|D:\\UnityProject\\Desertparkour\\Desertparkour\\assets\\jiankang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|solutionrelative:assets\\jiankang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B2029B-1CD8-66EF-F2A0-9E2EEA547751}|Assembly-CSharp-Editor.csproj|D:\\UnityProject\\Desertparkour\\Desertparkour\\assets\\infinite runner ultimate 3d\\editor\\pointsetseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B2029B-1CD8-66EF-F2A0-9E2EEA547751}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\infinite runner ultimate 3d\\editor\\pointsetseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{450C6120-752A-2A0F-A57C-0A7059E49469}|Assembly-CSharp.csproj|D:\\UnityProject\\Desertparkour\\Desertparkour\\assets\\infinite runner ultimate 3d\\scripts\\player\\playerscoreugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,24 +62,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "JianKang.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\JianKang.cs",
+              "RelativeDocumentMoniker": "Assets\\JianKang.cs",
+              "ToolTip": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\JianKang.cs",
+              "RelativeToolTip": "Assets\\JianKang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:24:08.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CebianlanManager.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\CebianlanManager.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\CebianlanManager.cs",
               "ToolTip": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\CebianlanManager.cs",
               "RelativeToolTip": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\CebianlanManager.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAADQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T09:45:36.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ROtate.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Utility\\ROtate.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Utility\\ROtate.cs",
@@ -87,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WorldManager.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Level Generation\\WorldManager.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Level Generation\\WorldManager.cs",
@@ -99,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TrackObject.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Level Generation\\TrackObject.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Level Generation\\TrackObject.cs",
@@ -111,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PointSets.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Level Generation\\PointSets.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Level Generation\\PointSets.cs",
@@ -123,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "LevelSequencer.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Level Generation\\LevelSequencer.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Level Generation\\LevelSequencer.cs",
@@ -135,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LevelMaker.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Level Generation\\LevelMaker.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Level Generation\\LevelMaker.cs",
@@ -147,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayerScoreUGUI.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerScoreUGUI.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerScoreUGUI.cs",
@@ -155,51 +171,50 @@
               "RelativeToolTip": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerScoreUGUI.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAawFUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T07:18:10.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T07:18:10.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerControls.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerControls.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerControls.cs",
               "ToolTip": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerControls.cs",
               "RelativeToolTip": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerControls.cs",
-              "ViewState": "AgIAAA8CAAAAAAAAAAAtwBwCAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAIABAAAAAAAAAAA8wBECAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T05:08:09.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GUIManagerUGUI.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Utility\\GUIManagerUGUI.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Utility\\GUIManagerUGUI.cs",
               "ToolTip": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Utility\\GUIManagerUGUI.cs",
               "RelativeToolTip": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Utility\\GUIManagerUGUI.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAjwE4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T04:58:04.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PlayerPoweUpsUGUI.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerPoweUpsUGUI.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerPoweUpsUGUI.cs",
               "ToolTip": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerPoweUpsUGUI.cs",
               "RelativeToolTip": "Assets\\Infinite Runner Ultimate 3D\\Scripts\\Player\\PlayerPoweUpsUGUI.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAUwIYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwEAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T04:56:56.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PointSetsEditor.cs",
               "DocumentMoniker": "D:\\UnityProject\\Desertparkour\\Desertparkour\\Assets\\Infinite Runner Ultimate 3D\\Editor\\PointSetsEditor.cs",
               "RelativeDocumentMoniker": "Assets\\Infinite Runner Ultimate 3D\\Editor\\PointSetsEditor.cs",
@@ -207,8 +222,7 @@
               "RelativeToolTip": "Assets\\Infinite Runner Ultimate 3D\\Editor\\PointSetsEditor.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAhwEUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T04:50:34.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T04:50:34.336Z"
             }
           ]
         }

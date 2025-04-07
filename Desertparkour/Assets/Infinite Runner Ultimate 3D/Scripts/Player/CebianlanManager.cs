@@ -13,6 +13,7 @@ public class CebianlanManager : MonoBehaviour
     public GameObject CebainlanUI;
     public string clickid;
     private StarkGridGamePanelManager mStarkGridGamePanelManager;
+    private static bool isFirstStart = true;
 
 
     private void Start()
@@ -38,17 +39,21 @@ public class CebianlanManager : MonoBehaviour
 
 
 
+        if (isFirstStart)
+        {
+            clickid = "";
 
 
-        clickid = "";
+            getClickid();
 
 
-        getClickid();
+            Debug.Log("<-clickid-> " + clickid);
 
+            apiSend("active", clickid);
+            isFirstStart = false;
+        }
 
-        Debug.Log("<-clickid-> " + clickid);
-
-        apiSend("active", clickid);
+        
 
         showGridGame();
 
